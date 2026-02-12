@@ -1,5 +1,9 @@
 # Airtable MCP Server
 
+[![smithery badge](https://smithery.ai/badge/node2flow/airtable)](https://smithery.ai/server/node2flow/airtable)
+[![npm version](https://img.shields.io/npm/v/@node2flow/airtable-mcp.svg)](https://www.npmjs.com/package/@node2flow/airtable-mcp)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 MCP server for Airtable API — manage records, bases, tables, fields, and webhooks through 18 tools.
 
 ## Quick Start
