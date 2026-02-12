@@ -94,4 +94,13 @@ docker compose up -d
 
 ## License
 
-MIT
+MIT License - see [LICENSE](LICENSE)
+
+Copyright (c) 2026 [Node2Flow](https://node2flow.net)
+
+## Links
+
+- [npm Package](https://www.npmjs.com/package/@node2flow/airtable-mcp)
+- [Airtable API Documentation](https://airtable.com/developers/web/api/introduction)
+- [MCP Protocol](https://modelcontextprotocol.io/)
+- [Node2Flow](https://node2flow.net)
