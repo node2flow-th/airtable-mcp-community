@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "required": ["AIRTABLE_PAT"],
+  "properties": {
+    "AIRTABLE_PAT": {
+      "type": "string",
+      "description": "Airtable Personal Access Token from https://airtable.com/create/tokens"
+    },
+    "AIRTABLE_API_TIMEOUT": {
+      "type": "number",
+      "default": 30000,
+      "description": "Request timeout in milliseconds (default: 30000)"
+    }
+  }
+}

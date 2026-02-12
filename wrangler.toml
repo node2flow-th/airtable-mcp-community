@@ -1,0 +1,11 @@
+name = "airtable-mcp-community"
+main = "src/worker.ts"
+compatibility_date = "2024-12-01"
+workers_dev = true
+
+[[routes]]
+pattern = "airtable-mcp.node2flow.net"
+custom_domain = true
+
+[observability]
+enabled = true
